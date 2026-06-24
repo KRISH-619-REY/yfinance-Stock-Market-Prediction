@@ -1,6 +1,6 @@
-streamlit
-yfinance
-pandas
-numpy
-tensorflow
-scikit-learn
+streamlit==1.58.0
+yfinance==1.4.1
+pandas==2.2.2
+numpy==1.26.4
+tensorflow==2.16.1
+scikit-learn==1.5.0
